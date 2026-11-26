@@ -12,6 +12,7 @@ namespace MediCare.Data.Enums
         NotFound = 1,
         Forbidden = 2,
         ValidationFailed = 3,
-        Conflict = 4
+        Conflict = 4,
+        Unauthorized = 5
     }
 }
